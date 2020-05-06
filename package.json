@@ -1,0 +1,24 @@
+{
+  "name": "node_v4.0_sdk",
+  "version": "1.0.0",
+  "description": "App to test the SDK feature set &amp; to help with troubleshooting issues",
+  "main": "app.js",
+  "dependencies": {
+    "@optimizely/optimizely-sdk": "^4.0.0",
+    "uuid": "^7.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michal-optimizely/node_v4.0_sdk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michal-optimizely/node_v4.0_sdk/issues"
+  },
+  "homepage": "https://github.com/michal-optimizely/node_v4.0_sdk#readme"
+}
